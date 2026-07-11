@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Yash-Acharya-17)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Yash-Acharya-17&layout=compact)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Yash-Acharya-17&langs_count=4)
 
 <!---
 ThisURLDoesWork/ThisURLDoesWork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
